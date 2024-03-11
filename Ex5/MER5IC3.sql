@@ -1,0 +1,3 @@
+USE MER5;
+INSERT INTO CLIENT_VEHICLE(ID, Any_compra, Any_venta, Data_darrera_revisio, CLIENT_DNI, VEHICLE_Num_bastidor)
+VALUES('5', '2011-03-07', '2020-08-03', '2019-06-09', '93845345S', '97443S45DT65');
