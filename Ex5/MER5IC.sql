@@ -1,0 +1,3 @@
+use MER5;
+INSERT INTO TIPUS_VEHICLE(ID, Nom)
+VALUES('5', 'Quad');
