@@ -1,3 +1,0 @@
-use MER4;
-INSERT INTO TIPUS_POLISSA (ID, Nom)
-VALUES ('5', 'Viatge');
